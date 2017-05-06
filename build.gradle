@@ -2,6 +2,9 @@ task wrapper(type: Wrapper) {
     gradleVersion = '2.9'
 }
 
+group = 'com.github.PhilJay'
+version = '2017SNAPSHOT'
+
 buildscript {
     repositories {
         jcenter()
